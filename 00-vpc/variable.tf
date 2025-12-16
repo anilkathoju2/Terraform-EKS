@@ -3,7 +3,7 @@ variable "cidr_block" {
   default     = "0.0.0.0/16"
 }
 
-variable "project_name" {
+variable "project" {
     default = "roboshop"
 
 }
