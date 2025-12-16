@@ -1,4 +1,4 @@
-variable "cidr_block" {
+variable "cidr" {
   type        = string
   default     = "0.0.0.0/16"
 }
